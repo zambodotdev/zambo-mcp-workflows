@@ -54,6 +54,15 @@ Inspect the Zambo receipt for this job. Separate observed execution from externa
 
 External providers can fail or rate limit requests. Product-specific ownership and quota rules apply. These examples describe safe orchestration patterns; they do not guarantee that every catalog capability is available to every user or client.
 
+## the workflows
+
+- [audit a repo](audit-a-repo.md): run an AI-readiness audit of a repo or site, fixes in priority order, with a receipt
+- [find leads](find-leads.md): find people or companies matching a plain-language description of your customer
+- [remember across AIs](remember-across-ais.md): save context once, pick it up in any other AI
+- [hand work to another AI](hand-work-to-another-ai.md): package a job, its results, and its receipts into one handover link
+- [verify a deliverable](verify-a-deliverable.md): check every receipt inside work someone handed you
+- [pay per call (x402)](pay-per-call-x402.md): run a paid-tier job with per-call USDC payment inside a limit you set
+
 ---
 next step: add zambo to your ai in one url, no key, no account: https://zambo.dev/add/?ref=zambo-mcp-workflows
 got a receipt link from someone? check it in seconds: https://zambo.dev/verify/
