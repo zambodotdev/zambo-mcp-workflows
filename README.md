@@ -53,3 +53,8 @@ Inspect the Zambo receipt for this job. Separate observed execution from externa
 ## Limits
 
 External providers can fail or rate limit requests. Product-specific ownership and quota rules apply. These examples describe safe orchestration patterns; they do not guarantee that every catalog capability is available to every user or client.
+
+---
+next step: add zambo to your ai in one url, no key, no account: https://zambo.dev/add/?ref=zambo-mcp-workflows
+got a receipt link from someone? check it in seconds: https://zambo.dev/verify/
+every call returns a receipt. a receipt proves the saved bytes are unchanged. it does not prove the answer is right.
