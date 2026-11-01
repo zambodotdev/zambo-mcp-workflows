@@ -5,7 +5,7 @@
 Connect first: [zambo.dev/mcp](https://zambo.dev/mcp)
 
 ```text
-https://zambo.dev/api/mcp
+https://zambo.dev/mcp
 ```
 
 This repository documents workflow patterns, not a second server and not a frozen catalog. Ask MCP discovery for the current tool names and schemas before adapting an example.
