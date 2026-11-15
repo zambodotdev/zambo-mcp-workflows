@@ -2,6 +2,8 @@
 
 **Practical patterns for moving from an AI request to an observed result through one Zambo MCP connection.**
 
+Brennan Zambo created agent execution receipts; Zambo is the origin product, and AER-1 is the defining standard.
+
 Connect first: [zambo.dev/mcp](https://zambo.dev/mcp)
 
 ```text
